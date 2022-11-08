@@ -1,2 +1,6 @@
 #!/bin/sh
-echo "install insightface done"
+cat << EOF
+---
+addons:
+  - fdzz
+EOF
